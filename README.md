@@ -5,10 +5,12 @@
 
 <img src="/MJRO88592.JPG" width="300">
 
-I have three cats and their names are:
-* Barney
-* Willow
-* Perry
+~~I may slightly overfeed him~~
+
+**I have three cats and their names are:**
+* *Barney*
+* *Willow*
+* *Perry*
 
 Here are some emoji's
 1. 😞
