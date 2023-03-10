@@ -10,11 +10,11 @@ On this repository there will a html file containing:
 
 <img src="/MJRO88592.JPG" width="300">
 
-Above is my cat Barney
+Above is my cat Barney.
 
 **I have three cats and their names are:**
 * *Barney*
 * *Willow*
 * *Perry*
 
-*Here's a link to the [SPCA](https://www.spca.nz/) website if you want to apodt a cat🐈*
+*Here's a link to the [SPCA](https://www.spca.nz/) website if you want to apodt a cat🐈.*
