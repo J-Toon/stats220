@@ -17,4 +17,4 @@ Above is my cat Barney
 * *Willow*
 * *Perry*
 
-*Here's a link to the [SPCA](https://www.spca.nz/) website if you want to apodt a cat*
+*Here's a link to the [SPCA](https://www.spca.nz/) website if you want to apodt a cat🐈*
